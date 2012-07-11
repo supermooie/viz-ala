@@ -8,6 +8,11 @@ Installation on Ubuntu 12.04
 
 Installation instructions on how to set up everything required for development on Atlas of Living Australia on Ubuntu 12.04.
 
+Enable the add-apt-repository command
+-------------------------------------
+
+    sudo apt-get install python-software-properties
+
 Install grails
 --------------
 
